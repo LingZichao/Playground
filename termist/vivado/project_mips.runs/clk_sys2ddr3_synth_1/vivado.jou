@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Sep  7 01:06:09 2022
+# Process ID: 17432
+# Current directory: C:/Users/lingz/Desktop/Verilog/termist/vivado/project_mips.runs/clk_sys2ddr3_synth_1
+# Command line: vivado.exe -log clk_sys2ddr3.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_sys2ddr3.tcl
+# Log file: C:/Users/lingz/Desktop/Verilog/termist/vivado/project_mips.runs/clk_sys2ddr3_synth_1/clk_sys2ddr3.vds
+# Journal file: C:/Users/lingz/Desktop/Verilog/termist/vivado/project_mips.runs/clk_sys2ddr3_synth_1\vivado.jou
+#-----------------------------------------------------------
+source clk_sys2ddr3.tcl -notrace

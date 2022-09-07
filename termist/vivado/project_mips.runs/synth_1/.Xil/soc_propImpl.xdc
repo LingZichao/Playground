@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/lingz/Desktop/Verilog/termist/vivado/project_mips.srcs/constrs_1/new/soc_constraints.xdc rfile:../../../project_mips.srcs/constrs_1/new/soc_constraints.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN Y18 [get_ports clk_i_100mhz]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN J17 [get_ports init_calib_complete]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN P20 [get_ports sys_rst]

@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Sep  7 02:16:25 2022
+# Process ID: 5472
+# Current directory: C:/Users/lingz/Desktop/Verilog/termist/vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12476 C:\Users\lingz\Desktop\Verilog\termist\vivado\project_mips.xpr
+# Log file: C:/Users/lingz/Desktop/Verilog/termist/vivado/vivado.log
+# Journal file: C:/Users/lingz/Desktop/Verilog/termist/vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/lingz/Desktop/Verilog/termist/vivado/project_mips.xpr
+update_compile_order -fileset sources_1
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+add_files -fileset sim_1 -norecurse {C:/Users/lingz/Desktop/Verilog/termist/soc_tb/ddr3_model.sv C:/Users/lingz/Desktop/Verilog/termist/soc_tb/ddr3_model_parameters.vh C:/Users/lingz/Desktop/Verilog/termist/soc_tb/soc_tb.v}
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+launch_simulation
+launch_simulation
+launch_simulation
+source soc_tb.tcl
+close_sim
